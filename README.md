@@ -1,6 +1,8 @@
 # SemisBacasLumagod
-# SemisBacasLumagod
-# SemisBacasLumagod
-# SemisBacasLumagod
-# LumagodBacas
-# LumagodBacas
+## Features
+# Add Task
+# View Task
+# Filter Task
+# Edit Task
+# Mark Task
+# Delete Task

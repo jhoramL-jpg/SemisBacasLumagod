@@ -1,5 +1,5 @@
 # SemisBacasLumagod
-## Features
+## FEATURES
 # Add Task
 # View Task
 # Filter Task

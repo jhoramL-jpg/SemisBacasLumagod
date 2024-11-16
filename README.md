@@ -6,3 +6,4 @@
 - Edit Task
 - Mark Task
 - Delete Task
+- Exit the program
